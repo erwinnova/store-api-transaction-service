@@ -13,6 +13,7 @@ How to run:
 - Run command 'npm run db:exec' on project folder to run migrations
 - Run command 'npm run start' on project folder
 - See endpoints on Postman collection file on project folder
+- See Swagger API on http://localhost:3103/api
 - Enjoy
 
 Clickhouse command:
